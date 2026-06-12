@@ -10,13 +10,19 @@ pawaPay accepts arbitrary key-value metadata on a deposit. Stamp every request w
 
 ```json
 {
-  "depositId": "f4401bd2-1b8c-4017-...",
+  "depositId": "f4401bd2-1b8c-4017-9a8c-9a5c0c1e9d2a",
   "amount": "100",
   "currency": "GHS",
-  "payer": { "type": "MMO", "accountDetails": { "..." } },
+  "payer": {
+    "type": "MMO",
+    "accountDetails": {
+      "phoneNumber": "233541234567",
+      "provider": "MTN_MOMO_GHA"
+    }
+  },
   "metadata": [
-    { "fieldName": "team", "fieldValue": "team-orange" },
-    { "fieldName": "participant", "fieldValue": "jane@example.com" }
+    { "team": "team-orange" },
+    { "participant": "jane@example.com", "isPII": true }
   ]
 }
 ```
