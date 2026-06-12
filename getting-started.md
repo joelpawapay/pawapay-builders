@@ -17,7 +17,7 @@ Follow the official guide:
 The short version:
 
 1. Open **System configuration → API tokens** in the sandbox dashboard.
-2. Click **Create token**, name it (e.g. `team-<your-team-name>`), set its permissions.
+2. Click **Create token** and name it (e.g. `team-<your-team-name>`).
 3. **Copy the token now.** pawaPay shows it once.
 
 Each team generates its own token. That way you can attribute transactions correctly, and pawaPay can revoke a single team's token without disrupting anyone else.
