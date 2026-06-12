@@ -1,6 +1,6 @@
 # Resources
 
-Everything you might need during the hackathon, in one place.
+Links and contacts for the hackathon.
 
 ## pawaPay
 
@@ -19,13 +19,14 @@ Everything you might need during the hackathon, in one place.
 | --- | --- |
 | This repo | https://github.com/joelpawapay/pawapay-builders |
 | Plugin walkthrough (Loom) | https://www.loom.com/share/af99d1a8a13048a89220d21f1e001226 |
-| Plugin install guide | [../plugin/README.md](../plugin/README.md) |
 | Sandbox onboarding | [getting-started.md](getting-started.md) |
 | Tracking transactions | [tracking-transactions.md](tracking-transactions.md) |
+| Claude skill | [skill/README.md](skill/README.md) |
+| WooCommerce plugin | [plugin/README.md](plugin/README.md) |
 
-> **Callbacks**: polling works out of the box. If you need push callbacks instead, ping Joel and pawaPay will forward callbacks to your URL.
+> **Callbacks**: polling works out of the box. If you need push callbacks, email Joel and pawaPay will forward callbacks to your URL.
 
-## WooCommerce / WordPress
+## WooCommerce and WordPress
 
 | Resource | Link |
 | --- | --- |
@@ -37,7 +38,7 @@ Everything you might need during the hackathon, in one place.
 
 | Person | Role | How to reach |
 | --- | --- | --- |
-| Joel Amoako | pawaPay — account, tokens, general support | joel.amoako@pawapay.co.uk |
-| Calixte Mapouna | pawaPay — on-the-ground coordination | At the event venue |
-| Julie Manka | pawaPay — coordination support | At the event venue |
-| Ayuk | Mountain Hub — event organisation | At the event venue / Mountain Hub channel |
+| Joel Amoako | pawaPay: account, tokens, general support | joel.amoako@pawapay.co.uk |
+| Calixte Mapouna | pawaPay: on-the-ground coordination | At the event venue |
+| Julie Manka | pawaPay: coordination support | At the event venue |
+| Ayuk | Mountain Hub: event organisation | At the event venue or Mountain Hub channel |
